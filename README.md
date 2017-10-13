@@ -7,5 +7,10 @@
 * orders.csv -- 订单表
 * items.csv -- 宝贝-订单关联表
 
+# output
+* recom_top10_cluster.csv
+* recom_top10_IBCF.csv (Item Based Collaborative Filtering)
+* recom_top10_UBCF.csv (User Based Collaborative Filtering)
+
 # How to run?
 Run toys.ipynb in Jupyter Notebook.
